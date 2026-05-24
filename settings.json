@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "9lawi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TAGAYAMACHI.aternos.me",
+    "ip": "ilmot3a.aternos.me",
     "port": 19840,
     "version": "1.21.1",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I hate nigger",
+        "I am about to cum!",
+        "taga is ur daddy!"
       ]
     },
     "chat-log": true,
